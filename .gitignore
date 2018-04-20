@@ -1,0 +1,10 @@
+dataset/*
+3DHumanPose/*
+gait_energy_image/*
+gait_recognition/*
+gait-recognition-master/*
+Mask_RCNN/*
+openpose/*
+Person_reID_baseline_pytorch/*
+siamesenetwork-tensorflow/*
+SimpleCamUI/*
